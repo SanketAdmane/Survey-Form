@@ -1,0 +1,52 @@
+
+header{
+    text-align: center;
+    color: white;
+}
+.container{
+    width: 100%;
+    margin: 3.12rem auto 0 auto;
+}
+
+#description{
+    font-style: italic;
+}
+#name{
+    margin: 0 auto 0.25rem 0.15rem;
+    border-radius: 5px;
+    margin: 0.15rem 0.15rem 0.25rem 0;
+    padding: 0.45rem;
+    width: 75%;
+}
+
+#survey-form{
+    margin: 2% 20% 10% 25%;
+    display: block;
+    padding: 40px;
+    background-color: #1d1d35;
+    border-radius: 5px;
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1rem;
+    color: white;
+    background-color: black;
+    opacity: 0 30 34 23;
+
+}
+.form-group{
+  display: block;
+
+    
+}
+input, button, select, textarea{
+    margin: 0;
+    font-size: inherit;
+    font-family: inherit;
+    line-height: inherit;
+}
+label{
+    display: flex;
+}
